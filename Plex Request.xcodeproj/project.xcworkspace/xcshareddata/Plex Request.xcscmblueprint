@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "95248BADDACDF2046E971EAAA21E8AF7D620E4DF",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "AA023C9090003DBB3E1EA20D4BD55D419734D589" : 9223372036854775807,
+    "95248BADDACDF2046E971EAAA21E8AF7D620E4DF" : 9223372036854775807
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "AD7F6870-10E0-4192-96C8-9DA79E83B8B8",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "AA023C9090003DBB3E1EA20D4BD55D419734D589" : "..\/SwiftSpinner\/SwiftSpinner",
+    "95248BADDACDF2046E971EAAA21E8AF7D620E4DF" : "Plex%20Request\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "Plex Request",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "Plex Request.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/davidthurman\/Plex-Request-iOS",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "95248BADDACDF2046E971EAAA21E8AF7D620E4DF"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/icanzilb\/SwiftSpinner.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "AA023C9090003DBB3E1EA20D4BD55D419734D589"
+    }
+  ]
+}
